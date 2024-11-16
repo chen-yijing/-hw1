@@ -1,6 +1,5 @@
-# Network Programming Homework 1
+# Internet Project 1 - Basic HTTP Server Project
 
-## 📌 Overview
 This project implements a basic HTTP server in **C**, designed to practice network programming. The server listens on **port 8002** and handles HTTP `GET` and `POST` requests. It serves a simple HTML webpage with a file upload form and supports static file retrieval.
 
 ---
